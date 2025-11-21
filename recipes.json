@@ -2,20 +2,20 @@
   {
     "id": 1,
     "title": "Chicken Biryani",
-   "image": "https://images.unsplash.com/photo-1600522995682-715a2b22e2e5?auto=format&fit=crop&w=600&q=80",
-    "description": "A flavorful rice dish layered with marinated chicken and spices.",
+    "image": "https://picsum.photos/seed/biryani/500/300",
+    "description": "A flavorful Indian rice dish cooked with spices, basmati rice, and tender chicken.",
     "ingredients": [
       "1 cup basmati rice",
       "250g chicken",
       "1 onion",
       "1 cup curd",
       "Biryani masala",
-      "Salt"
+      "Salt to taste"
     ],
     "steps": [
       "Marinate chicken with masala and curd.",
       "Cook rice separately.",
-      "Layer rice and chicken and steam."
+      "Layer rice and chicken and steam for 15 mins."
     ],
     "nutrition": { "calories": 650, "protein": "32g", "carbs": "75g", "fat": "20g" },
     "time": "45 minutes",
@@ -26,19 +26,20 @@
   {
     "id": 2,
     "title": "Paneer Butter Masala",
-    "image": "https://images.unsplash.com/photo-1599302592205-2f72f5bd3627",
-    "description": "Soft paneer cooked in creamy tomato gravy.",
+    "image": "https://picsum.photos/seed/paneer/500/300",
+    "description": "Creamy paneer chunks cooked in a buttery tomato gravy.",
     "ingredients": [
       "200g paneer",
       "2 tomatoes",
       "Butter",
       "Cream",
-      "Spices"
+      "Garam masala",
+      "Salt"
     ],
     "steps": [
-      "Blend tomato gravy.",
-      "Cook with spices and cream.",
-      "Add paneer."
+      "Blend tomatoes to make gravy.",
+      "Cook spices in butter and add cream.",
+      "Add paneer cubes and simmer."
     ],
     "nutrition": { "calories": 520, "protein": "18g", "carbs": "22g", "fat": "38g" },
     "time": "25 minutes",
@@ -49,10 +50,20 @@
   {
     "id": 3,
     "title": "Pizza Margherita",
-    "image": "https://images.unsplash.com/photo-1601924582975-7aa6d1f1711c",
-    "description": "Classic cheesy pizza with tomato base and basil.",
-    "ingredients": ["Pizza dough", "Cheese", "Tomato sauce", "Basil"],
-    "steps": ["Make pizza base", "Add toppings", "Bake"],
+    "image": "https://picsum.photos/seed/pizza/500/300",
+    "description": "Classic Italian pizza topped with cheese and basil.",
+    "ingredients": [
+      "Pizza dough",
+      "Cheese",
+      "Tomato sauce",
+      "Basil leaves",
+      "Olive oil"
+    ],
+    "steps": [
+      "Roll pizza dough.",
+      "Add sauce, cheese and toppings.",
+      "Bake until crust is crisp."
+    ],
     "nutrition": { "calories": 780, "protein": "20g", "carbs": "95g", "fat": "30g" },
     "time": "20 minutes",
     "difficulty": "Easy",
@@ -62,11 +73,27 @@
   {
     "id": 4,
     "title": "Masala Dosa",
-    "image": "https://images.unsplash.com/photo-1626082927389-f4c29f4a52c8",
-    "description": "Crispy dosa stuffed with potato mixture.",
-    "ingredients": ["Dosa batter", "Potatoes", "Onions", "Mustard seeds"],
-    "steps": ["Prepare stuffing", "Spread batter", "Fill and fold"],
-    "nutrition": { "calories": 210, "protein": "5g", "carbs": "34g", "fat": "6g" },
+    "image": "https://picsum.photos/seed/dosa/500/300",
+    "description": "A crispy South Indian crepe filled with spiced potato stuffing.",
+    "ingredients": [
+      "Dosa batter",
+      "2 Potatoes",
+      "1 Onion",
+      "1 tsp Mustard Seeds",
+      "Curry leaves",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Prepare potato stuffing.",
+      "Spread dosa batter on a tawa.",
+      "Add stuffing and fold the dosa."
+    ],
+    "nutrition": {
+      "calories": 210,
+      "protein": "5g",
+      "carbs": "34g",
+      "fat": "6g"
+    },
     "time": "15 minutes",
     "difficulty": "Easy",
     "category": "Vegetarian"
@@ -75,10 +102,20 @@
   {
     "id": 5,
     "title": "Chole Bhature",
-    "image": "https://images.unsplash.com/photo-1633526540108-28f52c7bc627",
-    "description": "Fried bread served with spicy chickpea curry.",
-    "ingredients": ["Chickpeas", "Flour", "Oil", "Spices"],
-    "steps": ["Cook chole", "Make bhature dough", "Fry and serve"],
+    "image": "https://picsum.photos/seed/chole/500/300",
+    "description": "A popular Punjabi dish served with fried bread and spicy chickpeas.",
+    "ingredients": [
+      "1 cup chickpeas",
+      "Flour",
+      "Oil",
+      "Spices",
+      "Salt"
+    ],
+    "steps": [
+      "Boil chickpeas with spices.",
+      "Knead dough and make bhature.",
+      "Fry bhature and serve hot."
+    ],
     "nutrition": { "calories": 680, "protein": "19g", "carbs": "72g", "fat": "30g" },
     "time": "35 minutes",
     "difficulty": "Medium",
@@ -88,10 +125,20 @@
   {
     "id": 6,
     "title": "Egg Omelette",
-    "image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327",
-    "description": "Fluffy omelette seasoned with veggies.",
-    "ingredients": ["Eggs", "Salt", "Butter", "Onion"],
-    "steps": ["Beat eggs", "Cook on pan", "Fold and serve"],
+    "image": "https://picsum.photos/seed/omelette/500/300",
+    "description": "A fluffy protein-rich omelette perfect for breakfast.",
+    "ingredients": [
+      "2 Eggs",
+      "Salt",
+      "Butter",
+      "Onion",
+      "Green chilies"
+    ],
+    "steps": [
+      "Whisk eggs with salt.",
+      "Pour on heated pan.",
+      "Cook both sides and serve."
+    ],
     "nutrition": { "calories": 180, "protein": "15g", "carbs": "2g", "fat": "12g" },
     "time": "5 minutes",
     "difficulty": "Easy",
@@ -101,10 +148,19 @@
   {
     "id": 7,
     "title": "Momos",
-    "image": "https://images.unsplash.com/photo-1589308078052-9180a5b1e5a9",
-    "description": "Steamed dumplings with veggie filling.",
-    "ingredients": ["Flour", "Vegetables", "Soy sauce"],
-    "steps": ["Make filling", "Shape momos", "Steam"],
+    "image": "https://picsum.photos/seed/momos/500/300",
+    "description": "Steamed dumplings stuffed with vegetables or chicken.",
+    "ingredients": [
+      "Flour",
+      "Vegetables/Chicken",
+      "Salt",
+      "Soy sauce"
+    ],
+    "steps": [
+      "Prepare stuffing.",
+      "Fill dough and fold.",
+      "Steam for 10 minutes."
+    ],
     "nutrition": { "calories": 320, "protein": "12g", "carbs": "45g", "fat": "6g" },
     "time": "15 minutes",
     "difficulty": "Easy",
@@ -114,23 +170,33 @@
   {
     "id": 8,
     "title": "Rajma Chawal",
-    "image": "https://images.unsplash.com/photo-1651008376819-240fcee9c402",
-    "description": "Kidney bean curry served with boiled rice.",
-    "ingredients": ["Rajma", "Rice", "Spices"],
-    "steps": ["Cook rajma", "Cook rice", "Serve"],
+    "image": "https://picsum.photos/seed/rajma/500/300",
+    "description": "A comforting kidney bean curry served with steamed rice.",
+    "ingredients": [
+      "Kidney beans",
+      "Rice",
+      "Tomato",
+      "Onion",
+      "Spices"
+    ],
+    "steps": [
+      "Cook rajma with gravy.",
+      "Cook rice separately.",
+      "Serve hot."
+    ],
     "nutrition": { "calories": 580, "protein": "20g", "carbs": "90g", "fat": "8g" },
     "time": "30 minutes",
-    "difficulty": "Easy",
+    "difficulty": "Medium",
     "category": "Vegetarian"
   },
 
   {
     "id": 9,
     "title": "French Fries",
-    "image": "https://images.unsplash.com/photo-1550547660-d9450f859349",
-    "description": "Crispy potatoes seasoned with salt.",
+    "image": "https://picsum.photos/seed/fries/500/300",
+    "description": "Crispy deep-fried potato sticks seasoned with salt.",
     "ingredients": ["Potatoes", "Oil", "Salt"],
-    "steps": ["Cut potatoes", "Fry until golden", "Season"],
+    "steps": ["Cut potatoes.", "Fry until golden.", "Serve with seasoning."],
     "nutrition": { "calories": 450, "protein": "5g", "carbs": "58g", "fat": "22g" },
     "time": "10 minutes",
     "difficulty": "Easy",
@@ -140,10 +206,10 @@
   {
     "id": 10,
     "title": "Fruit Salad",
-    "image": "https://images.unsplash.com/photo-1572442388796-11668a67e53d",
-    "description": "Healthy mix of fresh seasonal fruits.",
-    "ingredients": ["Apple", "Banana", "Grapes", "Honey"],
-    "steps": ["Cut fruits", "Mix", "Add honey"],
+    "image": "https://picsum.photos/seed/salad/500/300",
+    "description": "A refreshing bowl of mixed seasonal fruits.",
+    "ingredients": ["Banana", "Apple", "Grapes", "Orange", "Honey"],
+    "steps": ["Chop fruits.", "Mix together.", "Add honey and serve."],
     "nutrition": { "calories": 150, "protein": "3g", "carbs": "34g", "fat": "1g" },
     "time": "5 minutes",
     "difficulty": "Easy",
