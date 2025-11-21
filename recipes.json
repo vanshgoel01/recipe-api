@@ -1,150 +1,152 @@
 [
   {
     "id": 1,
-    "title": "Paneer Butter Masala",
-    "image": "https://images.unsplash.com/photo-1603894584373-5f4f35d74c42",
-    "description": "A rich and creamy North Indian curry made with paneer, tomatoes, cream and butter.",
+    "title": "Chicken Biryani",
+    "image": "https://images.unsplash.com/photo-1600522995682-715a2b22e2e5",
+    "description": "A flavorful rice dish layered with marinated chicken and spices.",
     "ingredients": [
-      "200g Paneer",
-      "2 Tomatoes",
-      "1 Onion",
-      "1 tbsp Butter",
-      "1/2 cup Cream",
-      "1 tsp Ginger Garlic Paste",
-      "1 tsp Red Chili Powder",
-      "1/2 tsp Garam Masala",
-      "Salt to taste"
+      "1 cup basmati rice",
+      "250g chicken",
+      "1 onion",
+      "1 cup curd",
+      "Biryani masala",
+      "Salt"
     ],
     "steps": [
-      "Heat butter and sauté onions.",
-      "Add tomatoes, spices, and cook for 10 minutes.",
-      "Blend the mixture into a smooth paste.",
-      "Add paneer and cream, simmer for 5 minutes."
+      "Marinate chicken with masala and curd.",
+      "Cook rice separately.",
+      "Layer rice and chicken and steam."
     ],
-    "nutrition": {
-      "calories": 320,
-      "protein": "12g",
-      "carbs": "18g",
-      "fat": "22g"
-    },
+    "nutrition": { "calories": 650, "protein": "32g", "carbs": "75g", "fat": "20g" },
+    "time": "45 minutes",
+    "difficulty": "Medium",
+    "category": "Non-Vegetarian"
+  },
+
+  {
+    "id": 2,
+    "title": "Paneer Butter Masala",
+    "image": "https://images.unsplash.com/photo-1599302592205-2f72f5bd3627",
+    "description": "Soft paneer cooked in creamy tomato gravy.",
+    "ingredients": [
+      "200g paneer",
+      "2 tomatoes",
+      "Butter",
+      "Cream",
+      "Spices"
+    ],
+    "steps": [
+      "Blend tomato gravy.",
+      "Cook with spices and cream.",
+      "Add paneer."
+    ],
+    "nutrition": { "calories": 520, "protein": "18g", "carbs": "22g", "fat": "38g" },
     "time": "25 minutes",
     "difficulty": "Easy",
     "category": "Vegetarian"
   },
-  {
-    "id": 2,
-    "title": "Chicken Biryani",
-    "image": "https://images.unsplash.com/photo-1598515213692-5f80f1af3643",
-    "description": "A flavorful and aromatic rice dish layered with marinated chicken.",
-    "ingredients": [
-      "500g Chicken",
-      "2 cups Basmati rice",
-      "2 Onions",
-      "1 cup Curd",
-      "1 tbsp Biryani Masala",
-      "Mint & Coriander leaves",
-      "1 tsp Turmeric",
-      "Salt to taste"
-    ],
-    "steps": [
-      "Marinate chicken with curd and spices.",
-      "Semi-cook basmati rice.",
-      "Layer chicken and rice together.",
-      "Cook on low flame for 20 minutes."
-    ],
-    "nutrition": {
-      "calories": 650,
-      "protein": "35g",
-      "carbs": "70g",
-      "fat": "20g"
-    },
-    "time": "45 minutes",
-    "difficulty": "Medium",
-    "category": "Non-Veg"
-  },
+
   {
     "id": 3,
-    "title": "Veg Pulao",
-    "image": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528",
-    "description": "A simple rice dish cooked with vegetables and mild spices.",
-    "ingredients": [
-      "1 cup Rice",
-      "1 Carrot",
-      "1 Potato",
-      "1/2 cup Peas",
-      "1 Bay Leaf",
-      "Salt to taste",
-      "1 tsp Ghee"
-    ],
-    "steps": [
-      "Heat ghee and sauté whole spices.",
-      "Add chopped vegetables and rice.",
-      "Add water and cook for 10–12 minutes."
-    ],
-    "nutrition": {
-      "calories": 280,
-      "protein": "6g",
-      "carbs": "48g",
-      "fat": "6g"
-    },
+    "title": "Pizza Margherita",
+    "image": "https://images.unsplash.com/photo-1601924582975-7aa6d1f1711c",
+    "description": "Classic cheesy pizza with tomato base and basil.",
+    "ingredients": ["Pizza dough", "Cheese", "Tomato sauce", "Basil"],
+    "steps": ["Make pizza base", "Add toppings", "Bake"],
+    "nutrition": { "calories": 780, "protein": "20g", "carbs": "95g", "fat": "30g" },
     "time": "20 minutes",
     "difficulty": "Easy",
     "category": "Vegetarian"
   },
+
   {
     "id": 4,
     "title": "Masala Dosa",
-    "image": "https://images.unsplash.com/photo-1603894584373-846b534a4f38",
-    "description": "A crispy South Indian crepe filled with spiced potato stuffing.",
-    "ingredients": [
-      "Dosa batter",
-      "2 Potatoes",
-      "1 Onion",
-      "1 tsp Mustard Seeds",
-      "Curry leaves",
-      "Salt to taste"
-    ],
-    "steps": [
-      "Prepare potato stuffing.",
-      "Spread dosa batter on a tawa.",
-      "Add stuffing and fold the dosa."
-    ],
-    "nutrition": {
-      "calories": 210,
-      "protein": "5g",
-      "carbs": "34g",
-      "fat": "6g"
-    },
+    "image": "https://images.unsplash.com/photo-1626082927389-f4c29f4a52c8",
+    "description": "Crispy dosa stuffed with potato mixture.",
+    "ingredients": ["Dosa batter", "Potatoes", "Onions", "Mustard seeds"],
+    "steps": ["Prepare stuffing", "Spread batter", "Fill and fold"],
+    "nutrition": { "calories": 210, "protein": "5g", "carbs": "34g", "fat": "6g" },
     "time": "15 minutes",
     "difficulty": "Easy",
     "category": "Vegetarian"
   },
+
   {
     "id": 5,
-    "title": "Grilled Chicken Salad",
-    "image": "https://images.unsplash.com/photo-1550304943-4f24f54ddde9",
-    "description": "A high-protein salad with grilled chicken, veggies, and olive oil.",
-    "ingredients": [
-      "200g Chicken Breast",
-      "Lettuce",
-      "Cucumber",
-      "Tomatoes",
-      "Olive oil",
-      "Salt & Pepper"
-    ],
-    "steps": [
-      "Grill chicken until golden.",
-      "Chop veggies and mix.",
-      "Add chicken slices over salad."
-    ],
-    "nutrition": {
-      "calories": 350,
-      "protein": "42g",
-      "carbs": "10g",
-      "fat": "15g"
-    },
-    "time": "20 minutes",
+    "title": "Chole Bhature",
+    "image": "https://images.unsplash.com/photo-1633526540108-28f52c7bc627",
+    "description": "Fried bread served with spicy chickpea curry.",
+    "ingredients": ["Chickpeas", "Flour", "Oil", "Spices"],
+    "steps": ["Cook chole", "Make bhature dough", "Fry and serve"],
+    "nutrition": { "calories": 680, "protein": "19g", "carbs": "72g", "fat": "30g" },
+    "time": "35 minutes",
+    "difficulty": "Medium",
+    "category": "Vegetarian"
+  },
+
+  {
+    "id": 6,
+    "title": "Egg Omelette",
+    "image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327",
+    "description": "Fluffy omelette seasoned with veggies.",
+    "ingredients": ["Eggs", "Salt", "Butter", "Onion"],
+    "steps": ["Beat eggs", "Cook on pan", "Fold and serve"],
+    "nutrition": { "calories": 180, "protein": "15g", "carbs": "2g", "fat": "12g" },
+    "time": "5 minutes",
     "difficulty": "Easy",
-    "category": "Non-Veg"
+    "category": "Non-Vegetarian"
+  },
+
+  {
+    "id": 7,
+    "title": "Momos",
+    "image": "https://images.unsplash.com/photo-1589308078052-9180a5b1e5a9",
+    "description": "Steamed dumplings with veggie filling.",
+    "ingredients": ["Flour", "Vegetables", "Soy sauce"],
+    "steps": ["Make filling", "Shape momos", "Steam"],
+    "nutrition": { "calories": 320, "protein": "12g", "carbs": "45g", "fat": "6g" },
+    "time": "15 minutes",
+    "difficulty": "Easy",
+    "category": "Mixed"
+  },
+
+  {
+    "id": 8,
+    "title": "Rajma Chawal",
+    "image": "https://images.unsplash.com/photo-1651008376819-240fcee9c402",
+    "description": "Kidney bean curry served with boiled rice.",
+    "ingredients": ["Rajma", "Rice", "Spices"],
+    "steps": ["Cook rajma", "Cook rice", "Serve"],
+    "nutrition": { "calories": 580, "protein": "20g", "carbs": "90g", "fat": "8g" },
+    "time": "30 minutes",
+    "difficulty": "Easy",
+    "category": "Vegetarian"
+  },
+
+  {
+    "id": 9,
+    "title": "French Fries",
+    "image": "https://images.unsplash.com/photo-1550547660-d9450f859349",
+    "description": "Crispy potatoes seasoned with salt.",
+    "ingredients": ["Potatoes", "Oil", "Salt"],
+    "steps": ["Cut potatoes", "Fry until golden", "Season"],
+    "nutrition": { "calories": 450, "protein": "5g", "carbs": "58g", "fat": "22g" },
+    "time": "10 minutes",
+    "difficulty": "Easy",
+    "category": "Snack"
+  },
+
+  {
+    "id": 10,
+    "title": "Fruit Salad",
+    "image": "https://images.unsplash.com/photo-1572442388796-11668a67e53d",
+    "description": "Healthy mix of fresh seasonal fruits.",
+    "ingredients": ["Apple", "Banana", "Grapes", "Honey"],
+    "steps": ["Cut fruits", "Mix", "Add honey"],
+    "nutrition": { "calories": 150, "protein": "3g", "carbs": "34g", "fat": "1g" },
+    "time": "5 minutes",
+    "difficulty": "Easy",
+    "category": "Healthy"
   }
 ]
