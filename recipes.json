@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Paneer Butter Masala",
-    "image": "https://picsum.photos/seed/paneer/500/300",
+    "image": "https://images.unsplash.com/photo-1603894584373-5f4f35d74c42",
     "description": "A rich and creamy North Indian curry made with paneer, tomatoes, cream and butter.",
     "ingredients": [
       "200g Paneer",
@@ -31,11 +31,10 @@
     "difficulty": "Easy",
     "category": "Vegetarian"
   },
-
   {
     "id": 2,
     "title": "Chicken Biryani",
-    "image": "https://picsum.photos/seed/biryani/500/300",
+    "image": "https://images.unsplash.com/photo-1598515213692-5f80f1af3643",
     "description": "A flavorful and aromatic rice dish layered with marinated chicken.",
     "ingredients": [
       "500g Chicken",
@@ -63,11 +62,10 @@
     "difficulty": "Medium",
     "category": "Non-Veg"
   },
-
   {
     "id": 3,
     "title": "Veg Pulao",
-    "image": "https://picsum.photos/seed/pulao/500/300",
+    "image": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528",
     "description": "A simple rice dish cooked with vegetables and mild spices.",
     "ingredients": [
       "1 cup Rice",
@@ -93,11 +91,10 @@
     "difficulty": "Easy",
     "category": "Vegetarian"
   },
-
   {
     "id": 4,
     "title": "Masala Dosa",
-    "image": "https://picsum.photos/seed/dosa/500/300",
+    "image": "https://images.unsplash.com/photo-1603894584373-846b534a4f38",
     "description": "A crispy South Indian crepe filled with spiced potato stuffing.",
     "ingredients": [
       "Dosa batter",
@@ -122,11 +119,10 @@
     "difficulty": "Easy",
     "category": "Vegetarian"
   },
-
   {
     "id": 5,
     "title": "Grilled Chicken Salad",
-    "image": "https://picsum.photos/seed/salad/500/300",
+    "image": "https://images.unsplash.com/photo-1550304943-4f24f54ddde9",
     "description": "A high-protein salad with grilled chicken, veggies, and olive oil.",
     "ingredients": [
       "200g Chicken Breast",
@@ -150,297 +146,5 @@
     "time": "20 minutes",
     "difficulty": "Easy",
     "category": "Non-Veg"
-  },
-  {
-  "id": 6,
-  "title": "Chole Bhature",
-  "image": "https://picsum.photos/seed/chole/500/300",
-  "description": "A famous North Indian dish made of spicy chickpeas served with fried bhature.",
-  "ingredients": [
-    "1 cup Chickpeas",
-    "2 Tomatoes",
-    "1 Onion",
-    "1 tsp Chole Masala",
-    "1 tsp Ginger Garlic Paste",
-    "2 Bhature",
-    "Oil",
-    "Salt to taste"
-  ],
-  "steps": [
-    "Boil chickpeas.",
-    "Cook onion-tomato gravy with spices.",
-    "Mix chickpeas and simmer for 15 minutes.",
-    "Serve with hot bhature."
-  ],
-  "nutrition": {
-    "calories": 520,
-    "protein": "14g",
-    "carbs": "65g",
-    "fat": "20g"
-  },
-  "time": "35 minutes",
-  "difficulty": "Medium",
-  "category": "Vegetarian"
-},
-
-{
-  "id": 7,
-  "title": "Rajma Chawal",
-  "image": "https://picsum.photos/seed/rajma/500/300",
-  "description": "A comforting North Indian dish of kidney beans curry served with steamed rice.",
-  "ingredients": [
-    "1 cup Kidney Beans",
-    "2 Tomatoes",
-    "1 Onion",
-    "1 tsp Rajma Masala",
-    "1 tsp Cumin",
-    "Salt to taste"
-  ],
-  "steps": [
-    "Soak rajma overnight and boil.",
-    "Prepare onion-tomato gravy.",
-    "Add rajma and cook for 20 minutes.",
-    "Serve with steamed rice."
-  ],
-  "nutrition": {
-    "calories": 430,
-    "protein": "16g",
-    "carbs": "78g",
-    "fat": "4g"
-  },
-  "time": "40 minutes",
-  "difficulty": "Easy",
-  "category": "Vegetarian"
-},
-
-{
-  "id": 8,
-  "title": "Butter Chicken",
-  "image": "https://picsum.photos/seed/butterchicken/500/300",
-  "description": "A creamy and mildly spiced chicken curry popular worldwide.",
-  "ingredients": [
-    "500g Chicken",
-    "2 Tomatoes",
-    "1/2 cup Cream",
-    "1 tbsp Butter",
-    "1 tsp Ginger Garlic Paste",
-    "Garam Masala",
-    "Salt to taste"
-  ],
-  "steps": [
-    "Cook chicken pieces in spices.",
-    "Prepare tomato-based creamy gravy.",
-    "Mix chicken and simmer for 10 minutes."
-  ],
-  "nutrition": {
-    "calories": 600,
-    "protein": "36g",
-    "carbs": "14g",
-    "fat": "40g"
-  },
-  "time": "35 minutes",
-  "difficulty": "Medium",
-  "category": "Non-Veg"
-},
-
-{
-  "id": 9,
-  "title": "Pav Bhaji",
-  "image": "https://picsum.photos/seed/pavbhaji/500/300",
-  "description": "A spicy mashed vegetable curry served with butter-toasted pav.",
-  "ingredients": [
-    "2 Potatoes",
-    "1 Capsicum",
-    "1 Tomato",
-    "1 Onion",
-    "1 tbsp Pav Bhaji Masala",
-    "Butter",
-    "Pav buns",
-    "Salt to taste"
-  ],
-  "steps": [
-    "Boil vegetables.",
-    "Prepare onion-tomato base.",
-    "Mash veggies with spices.",
-    "Serve with toasted pav."
-  ],
-  "nutrition": {
-    "calories": 450,
-    "protein": "8g",
-    "carbs": "60g",
-    "fat": "18g"
-  },
-  "time": "30 minutes",
-  "difficulty": "Easy",
-  "category": "Vegetarian"
-},
-
-{
-  "id": 10,
-  "title": "Momos",
-  "image": "https://picsum.photos/seed/momos/500/300",
-  "description": "Soft dumplings steamed with vegetable or chicken filling.",
-  "ingredients": [
-    "Flour Dough",
-    "Cabbage",
-    "Carrot",
-    "Soy Sauce",
-    "Salt & Pepper"
-  ],
-  "steps": [
-    "Prepare stuffing.",
-    "Fill dumplings and shape.",
-    "Steam for 10 minutes."
-  ],
-  "nutrition": {
-    "calories": 280,
-    "protein": "7g",
-    "carbs": "38g",
-    "fat": "8g"
-  },
-  "time": "20 minutes",
-  "difficulty": "Easy",
-  "category": "Vegetarian"
-},
-
-{
-  "id": 11,
-  "title": "Shahi Paneer",
-  "image": "https://picsum.photos/seed/shahipaneer/500/300",
-  "description": "A royal creamy curry made with paneer, cashews and rich spices.",
-  "ingredients": [
-    "200g Paneer",
-    "Cashews",
-    "Cream",
-    "Tomatoes",
-    "Garam Masala",
-    "Salt"
-  ],
-  "steps": [
-    "Make cashew-tomato paste.",
-    "Cook paneer cubes in gravy.",
-    "Simmer for 5 minutes."
-  ],
-  "nutrition": {
-    "calories": 350,
-    "protein": "14g",
-    "carbs": "12g",
-    "fat": "28g"
-  },
-  "time": "25 minutes",
-  "difficulty": "Easy",
-  "category": "Vegetarian"
-},
-
-{
-  "id": 12,
-  "title": "Fish Curry",
-  "image": "https://picsum.photos/seed/fishcurry/500/300",
-  "description": "A tangy and spicy curry made with fish and coastal spices.",
-  "ingredients": [
-    "300g Fish",
-    "Coconut Milk",
-    "Curry Leaves",
-    "Tamarind",
-    "Spices",
-    "Salt"
-  ],
-  "steps": [
-    "Make coconut-spice gravy.",
-    "Add fish pieces and cook for 10 minutes."
-  ],
-  "nutrition": {
-    "calories": 390,
-    "protein": "34g",
-    "carbs": "16g",
-    "fat": "18g"
-  },
-  "time": "20 minutes",
-  "difficulty": "Easy",
-  "category": "Non-Veg"
-},
-
-{
-  "id": 13,
-  "title": "Idli Sambhar",
-  "image": "https://picsum.photos/seed/idli/500/300",
-  "description": "A light South Indian breakfast made with steamed idli and lentil sambhar.",
-  "ingredients": [
-    "Idli batter",
-    "Toor Dal",
-    "Tamarind",
-    "Vegetables",
-    "Sambhar Masala"
-  ],
-  "steps": [
-    "Steam idlis.",
-    "Cook sambhar with dal and veggies.",
-    "Serve hot with chutney."
-  ],
-  "nutrition": {
-    "calories": 230,
-    "protein": "8g",
-    "carbs": "40g",
-    "fat": "2g"
-  },
-  "time": "25 minutes",
-  "difficulty": "Easy",
-  "category": "Vegetarian"
-},
-
-{
-  "id": 14,
-  "title": "Egg Curry",
-  "image": "https://picsum.photos/seed/eggcurry/500/300",
-  "description": "A spicy rich curry made with boiled eggs and tomato-onion gravy.",
-  "ingredients": [
-    "4 Boiled Eggs",
-    "2 Tomatoes",
-    "1 Onion",
-    "Spices",
-    "Salt"
-  ],
-  "steps": [
-    "Prepare onion-tomato gravy.",
-    "Add eggs and simmer for 10 minutes."
-  ],
-  "nutrition": {
-    "calories": 320,
-    "protein": "20g",
-    "carbs": "10g",
-    "fat": "22g"
-  },
-  "time": "20 minutes",
-  "difficulty": "Easy",
-  "category": "Non-Veg"
-},
-
-{
-  "id": 15,
-  "title": "Aloo Paratha",
-  "image": "https://picsum.photos/seed/paratha/500/300",
-  "description": "A stuffed Indian whole-wheat flatbread filled with spicy mashed potatoes.",
-  "ingredients": [
-    "Wheat Dough",
-    "2 Potatoes",
-    "Spices",
-    "Ghee",
-    "Salt"
-  ],
-  "steps": [
-    "Prepare aloo stuffing.",
-    "Fill dough and roll paratha.",
-    "Cook on tawa with ghee."
-  ],
-  "nutrition": {
-    "calories": 310,
-    "protein": "6g",
-    "carbs": "52g",
-    "fat": "8g"
-  },
-  "time": "15 minutes",
-  "difficulty": "Easy",
-  "category": "Vegetarian"
-}
-
+  }
 ]
